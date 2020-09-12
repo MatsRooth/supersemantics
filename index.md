@@ -1,5 +1,4 @@
-## Reader for LING 7711 / PHIL 6740 Fall 2020 at Cornell
-![Cover](https://github.com/MatsRooth/supersemantics/image/supersemantics.jpg)
+![Cover](https://compling.cis.cornell.edu/supersemantics/image/supersemantics.jpg)
 
 
 
