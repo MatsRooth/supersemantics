@@ -1,6 +1,4 @@
-![Cover](https://compling.cis.cornell.edu/supersemantics/image/supersemantics.jpg width=640)
-
-
+<img src="https://compling.cis.cornell.edu/supersemantics/image/supersemantics.jpg" width=640>
 
 <table>
 
